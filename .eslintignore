@@ -1,0 +1,9 @@
+src/assets/js
+src/components/Header.vue
+src/components/Comment
+src/components/ArticleDesc.vue
+src/data
+src/components
+src/views
+trash/
+public/theme
