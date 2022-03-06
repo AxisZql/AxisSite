@@ -19,7 +19,7 @@
                 <li class="current-menu-item">
                     <a href="/#/home" aria-current="page">
                         <span class="faa-parent animated-hover">
-                            <i class="fa fa-fort-awesome faa-horizontal" aria-hidden="true"></i>
+                            <i class="el-icon-guide" aria-hidden="true"></i>
                             首页
                         </span>
                     </a>
@@ -27,38 +27,38 @@
                 <li>
                     <a href="/time-series/">
                         <span class="faa-parent animated-hover">
-                            <i class="fa fa-archive faa-shake" aria-hidden="true"></i>
+                            <i class="el-icon-receiving" aria-hidden="true"></i>
                             归档
                         </span>
                     </a>
                     <ul class="sub-menu">
                         <li>
                             <a href="/#/articleList">
-                                <i class="fa fa-terminal" aria-hidden="true"></i>
+                                <i class="el-icon-s-promotion" aria-hidden="true"></i>
                                 极客
                             </a>
                         </li>
                         <li>
                             <a href="/#/articleList">
-                                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                <i class="el-icon-document" aria-hidden="true"></i>
                                 文章
                             </a>
                         </li>
                         <li>
                             <a href="/#/articleList">
-                                <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                <i class="el-icon-film" aria-hidden="true"></i>
                                 影评
                             </a>
                         </li>
                         <li>
                             <a href="/#/articleList">
-                                <i class="fa fa-commenting-o" aria-hidden="true"></i>
+                                <i class="el-icon-chat-line-square" aria-hidden="true"></i>
                                 随想
                             </a>
                         </li>
                         <li>
                             <a target="_blank" rel="noopener" href="http://axiszql.top/">
-                                <i class="fa fa-book" aria-hidden="true"></i>
+                                <i class="el-icon-edit" aria-hidden="true"></i>
                                 笔记
                             </a>
                         </li>
@@ -67,20 +67,20 @@
                 <li>
                     <a>
                         <span class="faa-parent animated-hover">
-                            <i class="fa fa-list-ul faa-vertical" aria-hidden="true"></i>
+                            <i class="el-icon-notebook-2" aria-hidden="true"></i>
                             清单
                         </span>
                     </a>
                     <ul class="sub-menu">
                         <li>
                             <a href="/#/bookList">
-                                <i class="fa fa-th-list faa-bounce" aria-hidden="true"></i>
+                                <i class="el-icon-reading" aria-hidden="true"></i>
                                 书单
                             </a>
                         </li>
                         <li>
                             <a href="/#/videoList">
-                                <i class="fa fa-film faa-vertical" aria-hidden="true"></i>
+                                <i class="el-icon-wind-power" aria-hidden="true"></i>
                                 番组
                             </a>
                         </li>
@@ -90,7 +90,7 @@
                 <li>
                     <a href="/#/leaveComment">
                         <span class="faa-parent animated-hover">
-                            <i class="fa fa-pencil-square-o  faa-tada" aria-hidden="true"></i>
+                            <i class="el-icon-message" aria-hidden="true"></i>
                             留言板
                         </span>
                     </a>
@@ -100,20 +100,20 @@
                 <li>
                     <a href="#">
                         <span class="faa-parent animated-hover">
-                            <i class="fa fa-leaf faa-wrench" aria-hidden="true"></i>
+                            <i class="el-icon-ship" aria-hidden="true"></i>
                             关于
                         </span>
                     </a>
                     <ul class="sub-menu">
                         <li>
                             <a href="https://2heng.xin/about/">
-                                <i class="fa fa-grav" aria-hidden="true"></i>
+                                <i class="el-icon-user" aria-hidden="true"></i>
                                 我？
                             </a>
                         </li>
                         <li>
                             <a href="https://2heng.xin/analytics/">
-                                <i class="fa fa-area-chart" aria-hidden="true"></i>
+                                <i class="el-icon-data-line" aria-hidden="true"></i>
                                 统计
                             </a>
                         </li>

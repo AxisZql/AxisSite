@@ -10,6 +10,7 @@
   "dependencies": {
     "@vue/eslint-config-standard": "^5.1.2",
     "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
